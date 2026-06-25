@@ -12,7 +12,7 @@
 ...
 
 ## 📜 Certifications & Compliance Expertise
-### 🇺🇸 Security & Clearance Status
+### United States Security & Clearance Status
 * **U.S. Citizen** — Eligible and available to obtain federal, defense, or agency-level government security clearances.
 ### 🛡️ Professional Certifications
 * **ServiceNow Certified System Administrator (CSA)** — Core platform architecture, configuration, and IT workflows.
