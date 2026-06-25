@@ -33,11 +33,12 @@
 
 ...
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LouiseBoulware | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with me Links:
 
-[linkedin]: https://www.linkedin.com/in/louise-olivia-boulware
+[![LouiseBoulware | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-boulware-csa-loan-iq-salesforce) [![Email | Louise](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louise73boulware@gmail.com)
+
+📧 **Email:** [louise73boulware@gmail.com](mailto:louise73boulware@gmail.com)
 
 <!--
 
