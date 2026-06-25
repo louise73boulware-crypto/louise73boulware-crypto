@@ -1,4 +1,8 @@
-<h1>Hi, I'm Louise! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/louise-olivia-boulware/">ServiceNow Professional</a></h1>
+# <img src="https://github.com/louise73boulware-crypto.png" align="left" alt="Louise's GitHub Profile Picture" width="150" height="150" style="border-radius: 50%; margin-right: 15px;" /> Hi, I'm Louise! ServiceNow Professional
+
+<br clear="left"/>
+
+...
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
