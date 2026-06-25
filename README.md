@@ -6,29 +6,32 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- *IT Product Management & ServiceNow*
+  - [Holographic Handheld Device (HHD) Management](https://github.com/louise73boulware-crypto/Holographic_Handheld_Device-IT-Product-Management) — A repository tracking the IT product management lifecycle, CMDB asset configurations, and native ServiceNow source control integration for holographic technical assets.
 
-<h2>📺 Popular YouTube Videos</h2>
+...
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 📜 Certifications & Compliance Expertise
+### 🇺🇸 Security & Clearance Status
+* **U.S. Citizen** — Eligible and available to obtain federal, defense, or agency-level government security clearances.
+### 🛡️ Professional Certifications
+* **ServiceNow Certified System Administrator (CSA)** — Core platform architecture, configuration, and IT workflows.
+* **ITIL® 4 Foundation** — IT Service Management (ITSM) best practices and lifecycle framework.
+* **Active NMLS Mortgage Originator License** — Federal and state-level financial compliance and lending standards.
+* **Active Health & Medicare Insurance License** — Healthcare insurance regulations, consumer advocacy, and enrollment governance.
+
+### ⚖️ Regulatory & Compliance Summary
+> **Highly experienced in navigating and implementing technical guardrails within strict, high-stakes regulated environments.** I specialize in aligning IT solutions, system integrations, and business workflows with complex data privacy, consumer protection, and security frameworks across the healthcare, federal, and banking sectors:
+
+* **Healthcare:** Managed data handling and workflow integrity under **HIPAA**, **Medicare**, and **Medicaid** guidelines.
+* **Federal Standards:** Framework alignment keeping data sovereignty and infrastructure compliance (**FedRAMP**) top of mind.
+* **Banking & Finance:** Experienced operating within rigorous financial frameworks, including:
+  * **BSA/AML** (Bank Secrecy Act / Anti-Money Laundering)
+  * **Dodd-Frank Act** & **CFPB** (Consumer Financial Protection Bureau) regulations
+  * **GLBA** (Gramm-Leach-Bliley Act) for consumer financial privacy
+  * **Fair Lending Laws** (ECOA / TILA / RESPA)
+
+...
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -47,6 +50,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
