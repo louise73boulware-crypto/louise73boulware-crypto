@@ -1,6 +1,4 @@
-# <img src="https://github.com/louise73boulware-crypto.png" align="left" alt="Louise's GitHub Profile Picture" width="150" height="150" style="border-radius: 50%; margin-right: 15px;" /> Hi, I'm Louise! ServiceNow Professional
-
-<br clear="left"/>
+# Hi, I'm Louise! ServiceNow Professional
 
 ...
 
