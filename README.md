@@ -7,6 +7,7 @@
 - *IT Product Management & ServiceNow*
   - [Holographic Handheld Device (HHD) Management](https://github.com/louise73boulware-crypto/Holographic_Handheld_Device-IT-Product-Management) — A repository tracking the IT product management lifecycle, CMDB asset configurations, and native ServiceNow source control integration for holographic technical assets.
   - [CMDB Foundation and Import Map Pipeline](https://github.com/louise73boulware-crypto/CMDB-Foundation-and-Import-Map-Pipeline.git) — A repository tracking configuration management database data pipelines, ingestion guardrails, and structured asset mapping architectures.
+  - [Enterprise Onboarding Employee Engine](https://github.com/louise73boulware-crypto/Enterprise-Onboarding-Employee-Engine) — A native, scoped ServiceNow application built manually without Now Assist for Creator, designed to automate, track, and orchestrate the end-to-end service catalog lifecycle for corporate employee onboarding.
 
 
 ...
